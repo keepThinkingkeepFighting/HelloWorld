@@ -7,6 +7,8 @@ package com.finajoy.helloworld.testGit;
  */
 public class TestGit {
     public static void testA(){
-        System.out.println("something");
+        //前面加一行
+        System.out.println("写的什么煎饼玩意儿");
+        //后面加一行
     }
 }
